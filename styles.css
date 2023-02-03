@@ -1,0 +1,52 @@
+body{
+    background-color: #FFECEF;
+}
+h1{
+    font-family: 'Kaushan Script', cursive;
+    font-size: 150px;
+    color: #2A0944;
+    margin-top: 1%;
+    margin-bottom: -40px;
+    padding: 0px 0px 0px 0px;
+    text-align: center;
+}
+.players{
+    margin: auto;
+    width: fit-content;
+    margin-bottom: -20px;
+    padding: 0px 0px 0px 0px;
+}
+.P1{
+    display: inline-block;
+    position: relative;
+    font-family: "Comic Sans MS";
+    font-size: 30px;
+    padding: 0rem;
+    margin: 0px 120px 0px 0px;
+    
+}
+.P2{
+    display: inline-block;
+    position: relative;
+    font-family: "Comic Sans MS";
+    font-size: 30px;
+    padding: 0rem;
+    margin: 0px 0px 0px 120px;
+}
+.dices{
+    margin: auto;
+    width: fit-content;
+}
+.dice1{
+    display: inline-block;
+    position: relative;
+    padding: 20px 40px 20px 20px;
+}
+.dice2{
+    display: inline-block;
+    position: relative;
+    padding: 20px 20px 40px 20px;
+}
+.footer{
+    text-align: center;
+}
